@@ -1,20 +1,17 @@
 body {
-    background-color: #ffffff;
+    background-color: #23806e;
 }
-header{
-    background-color: #a0e683;
-}
+
+
+
+
+span{font-weight: 800}
+
 footer{
     background-color: #23806e;
 
 }
-h2{
-    text-align: center;
-}
 
-.colorLight{
-    color: #FFFFFF;
-}
-.colorGreen{
-    color: #23806e;
-}
+
+
+
