@@ -3,7 +3,6 @@
     background-color: #FFFFFF;
     margin-top: 48px;
 }
-
 .header-img{
     position: absolute;
     bottom:37px;
@@ -27,7 +26,7 @@
     color: #23806e;
 }
 
-h2{
+h2 {
     text-align: left;
     font-size: 50px;
 }
