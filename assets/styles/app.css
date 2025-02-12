@@ -1,3 +1,20 @@
 body {
-    background-color: skyblue;
+    background-color: #ffffff;
+}
+header{
+    background-color: #a0e683;
+}
+footer{
+    background-color: #23806e;
+
+}
+h2{
+    text-align: center;
+}
+
+.colorLight{
+    color: #FFFFFF;
+}
+.colorGreen{
+    color: #23806e;
 }
